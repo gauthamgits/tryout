@@ -22,6 +22,11 @@ public class App
     	System.out.println("new method by first guy again");
     	System.out.println("new method develop");
     	System.out.println("new method develop first guy");
+    	System.out.println("new method develop secoefada guy");
+    	System.out.println("new method develop secoefada guy");
+    	System.out.println("new method develop secoefada guy");
+    	System.out.println("new method develop secoefada guy");
+    	System.out.println("new method develop secoefada guy");
     }
 
     
