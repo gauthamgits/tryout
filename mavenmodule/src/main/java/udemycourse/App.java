@@ -15,4 +15,10 @@ public class App
     public void newmethod() {
     	System.out.println("new method");
     }
+    
+    public void newmethodbyfirstguy() {
+    	System.out.println("new method by first guy again");
+    }
+
+    
 }
