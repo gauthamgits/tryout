@@ -15,11 +15,13 @@ public class App
     public void newmethod() {
     	System.out.println("new method");
     	System.out.println("new method develop");
+    	System.out.println("new method develop first guy");
     }
     
     public void newmethodbyfirstguy() {
     	System.out.println("new method by first guy again");
     	System.out.println("new method develop");
+    	System.out.println("new method develop first guy");
     }
 
     
